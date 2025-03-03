@@ -1,18 +1,52 @@
 # GNSS-Dataset
-Dataset Overview
-This dataset consists of GNSS logs collected using two apps: GNSS Logger and LocaEdit. GNSS Logger records real-time location and sensor data, while LocaEdit is used to simulate spoofed location scenarios. The dataset includes both Fix logs (latitude, longitude, altitude) and Raw logs (signal parameters, satellite identifiers, Doppler shift, carrier phase frequency). Data was collected using smartphones such as the Galaxy M34 5G, Oppo Reno7, and Galaxy S23 Ultra.
+GNSS Spoofing Detection Dataset
+Description
+This repository contains a dataset of GNSS logs (Fix and Raw) collected using GNSS Logger and LocaEdit. The dataset is designed for research on GNSS spoofing detection and includes both original and spoofed location data. The logs are preprocessed and ready for use in developing and evaluating machine learning models or signal processing techniques.
 
-Data Collection Process
-To collect the data, at least two smartphones were used. The first phone recorded GNSS logs of the original route without spoofing, while the second phone simulated spoofing scenarios using LocaEdit. GNSS Logger ran in the background to capture logs during both original and spoofed routes. LocaEdit offers various spoofing options, including static locations, navigation between source and destination, and multi-path routing with adjustable speeds.
+Dataset Details
+Data Collection
+Tools Used:
+
+GNSS Logger: Records real-time location and sensor data.
+
+LocaEdit: Simulates spoofed location scenarios (static locations, navigation between points, multi-path routing, and speed modification).
+
+Devices: Galaxy M34 5G, Oppo Reno7, Galaxy S23 Ultra.
+
+Log Types:
+
+Fix Logs: 13,828 rows containing location-based information (latitude, longitude, altitude, speed, bearing, accuracy).
+
+Raw Logs: 298,363 rows containing signal parameters (satellite identifiers, Doppler shift, carrier frequency, signal strength).
+
+Preprocessing
+Fix Dataset:
+
+Selected 7 key features: latitude, longitude, altitude, speed, bearing, accuracy, and a mock location indicator.
+
+Calculated relative latitude, longitude, altitude, and bearing by taking differences between consecutive rows.
+
+Replaced null values using linear interpolation.
+
+Normalized speed and accuracy using Min-Max scaling.
+
+Raw Dataset:
+
+Selected 11 key features: time, satellite ID, state, signal strength (Cn0DbHz, SnrInDb), pseudorange, carrier frequency, and more.
+
+Approximated spoofing labels (MockLocationAppx) by aligning Fix and Raw logs using timestamps.
+
+Replaced null values using linear interpolation.
+
+Encoded categorical features (e.g., satellite state) using Ordinal Encoding.
+
+Scaled numerical features using Standard Scaler.
 
 Dataset Structure
-The dataset is organized into two main types of logs:
+The dataset is organized into two main folders:
 
-Fix Logs: Contain location-based information such as latitude, longitude, and altitude.
+Fix Logs: Contains preprocessed Fix data in .csv format.
 
-Raw Logs: Include detailed signal parameters like satellite identifiers, Doppler shift, and carrier phase frequency.
+Raw Logs: Contains preprocessed Raw data in .csv format.
 
-Each log file is labeled to indicate whether it represents original or spoofed data. Additional metadata, such as the device used and spoofing scenario, is also provided.
-
-Usage
-This dataset is intended for research on GNSS spoofing detection, particularly for developing and evaluating machine learning models or signal processing techniques. The combination of original and spoofed logs allows for the creation of robust detection systems. For more details on the data collection process and tools used, refer to the documentation in the repository.
+Each file is labeled to indicate whether it represents original or spoofed data. Metadata (e.g., device used, spoofing scenario) is included for reference.
