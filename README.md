@@ -55,8 +55,6 @@ Each file is labeled to indicate whether it represents original or spoofed data.
    ```
 3. Analyze or preprocess further as needed for your research.
 
-## License
-This dataset is provided for research purposes only. Please cite appropriately if used in academic work.
 
 ## Contact
-For questions or collaborations, please contact [Your Name] at [Your Email].
+For questions or collaborations, please contact [Hansini KB] at [hansinikb@gmail.com].
