@@ -1,0 +1,1022 @@
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "No spoofing detected (initial data point)",
+    "lstm_prediction": "waiting for more data",
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": "waiting for more data",
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": "waiting for more data",
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": "waiting for more data",
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "Medium",
+    "lstm_prediction": 0.9999253749847412,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9998874664306641,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9999451637268066,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.994059681892395,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9985702037811279,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9992843270301819,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9997817873954773,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9898494482040405,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9987849593162537,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9879550933837891,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9983710646629333,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9904167652130127,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.998960018157959,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9922903180122375,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9991969466209412,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9902922511100769,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9990479350090027,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9939415454864502,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9969605803489685,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9982584118843079,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9997476935386658,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9990819692611694,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9999222755432129,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9915556311607361,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9990098476409912,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9868934154510498,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9983606934547424,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.990264892578125,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9986326098442078,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9911530613899231,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9990999698638916,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9875839352607727,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9987698197364807,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9910949468612671,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9991023540496826,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9980884194374084,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9493899345397949,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9968794584274292,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9992867112159729,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9924609065055847,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9990628361701965,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9895273447036743,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9865458011627197,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.9956322312355042,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9990972280502319,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.99941086769104,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.999832272529602,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.999231219291687,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9997078776359558,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9904652833938599,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9985993504524231,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9878374338150024,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9986781477928162,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9887972474098206,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9985389709472656,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9914729595184326,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9991651773452759,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9907932877540588,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9989669322967529,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.992590069770813,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9990956783294678,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9909150004386902,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9991574287414551,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.989607036113739,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9986007809638977,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9903501868247986,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.999086856842041,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9900668859481812,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9988619089126587,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9922780990600586,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9990708827972412,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9911009669303894,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9989821314811707,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9975830316543579,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.953473687171936,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9971426129341125,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9992389678955078,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9930765628814697,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9988503456115723,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9908075928688049,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9989789724349976,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9931352138519287,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9992415904998779,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9886623024940491,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.998688280582428,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9919531941413879,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9985451698303223,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9986466765403748,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9577535390853882,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9973306655883789,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.999284565448761,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9901831746101379,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9991993308067322,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9883610010147095,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9985685348510742,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9925783276557922,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9989972710609436,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9918760061264038,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9989367127418518,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9923058152198792,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9989269375801086,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.990202009677887,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9988133907318115,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9907384514808655,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9990448355674744,
+    "mock_loc": "1"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9912939667701721,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9988658428192139,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9898093938827515,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9987567663192749,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9899516701698303,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9985718727111816,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9916782379150391,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9989804625511169,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9918813109397888,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9989670515060425,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9899472594261169,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9987848401069641,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9895370006561279,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9985072016716003,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9900580048561096,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9988425970077515,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9894549250602722,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9987381100654602,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9902175068855286,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9972907900810242,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9511668682098389,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9690181612968445,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9974453449249268,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9910703897476196,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9896760582923889,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9989567995071411,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9871668219566345,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9983035326004028,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9932941198348999,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9992637038230896,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9918460249900818,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9989069700241089,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9897499680519104,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9989606142044067,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9903399348258972,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9989239573478699,
+    "mock_loc": "1"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "High",
+    "lstm_prediction": 0.9879236817359924,
+    "mock_loc": "1"
+}

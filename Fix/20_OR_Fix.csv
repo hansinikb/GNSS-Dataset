@@ -1,0 +1,2 @@
+Provider,LatitudeDegrees,LongitudeDegrees,AltitudeMeters,SpeedMps,AccuracyMeters,BearingDegrees,UnixTimeMillis,SpeedAccuracyMps,BearingAccuracyDegrees,elapsedRealtimeNanos,VerticalAccuracyMeters,MockLocation,NumberOfUsedSignals,VerticalSpeedAccuracyMps,SolutionType
+FLP,12.9710569,77.6496584,831.0999755859375,,104.1,,1730973620400,1.5,45.0,229527342000000,20.729273,0,,,

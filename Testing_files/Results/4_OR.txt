@@ -1,0 +1,1001 @@
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected (initial data point)",
+    "lstm_prediction": "waiting for more data",
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": "waiting for more data",
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": "waiting for more data",
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": "waiting for more data",
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.010334271006286144,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0037460324820131063,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0005009655724279583,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0017798488261178136,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0010282907169312239,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0010823594639077783,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0007110710721462965,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0015870414208620787,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0005651501705870032,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0003976596344728023,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0003882713208440691,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0007053414010442793,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.00040361908031627536,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0012887660413980484,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.002499534282833338,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.002541325055062771,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0015351723413914442,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0006974083953537047,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.00025300917332060635,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0005237000295892358,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.00047213787911459804,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0006349131581373513,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0008159419521689415,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.028572481125593185,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.016504159197211266,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.16731835901737213,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.2105429470539093,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.7568641304969788,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.5990297198295593,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0018883079756051302,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.00318868737667799,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0032403958030045033,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.003772580996155739,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0018854736117646098,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0019537329208105803,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0012578987516462803,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0014386038528755307,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.001058364287018776,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0011680106399580836,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0009191827266477048,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0011052191257476807,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.001554257469251752,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0017916978104040027,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.003615602618083358,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.00411593122407794,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.006098432000726461,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.007430387195199728,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.00874023512005806,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.009044663049280643,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.006696766708046198,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.007611663080751896,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.005833649542182684,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.007027766201645136,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.0071616084314882755,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.008092394098639488,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.006773766595870256,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.008211440406739712,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.006181308999657631,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.00780857726931572,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.00784475076943636,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.00979785155504942,
+    "mock_loc": "0"
+}
+{
+    "w1": 0,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.010724938474595547,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.012992044910788536,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.0073387157171964645,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.008296850137412548,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.006357000675052404,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.012506590224802494,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.008703050203621387,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.009810409508645535,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.005604495294392109,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.009895325638353825,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.005955897271633148,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.01844850927591324,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.012029420584440231,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.007683992851525545,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.00603094045072794,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.004071549046784639,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0016984400572255254,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.000812579586636275,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.0008491137414239347,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 5.335479727364145e-05,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.00012226433318573982,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 1.1751789088521036e-06,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.00010322617163183168,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 7.158224889280973e-06,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0002649429370649159,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 4.8909667384577915e-05,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0005909979226998985,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.00042078475235030055,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0006342031410895288,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.00018047452613245696,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0011630213120952249,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 3.119890607194975e-05,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0001819683238863945,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 4.9565751396585256e-05,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0023453549947589636,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0017358340555801988,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0017766037490218878,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0031412960961461067,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0023644575849175453,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.00445537269115448,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.004429952707141638,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.008121819235384464,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.004686644766479731,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.009972373954951763,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0049810572527348995,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.010577383451163769,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.006850528530776501,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.008066656067967415,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.003067311830818653,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.003595653921365738,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "No spoofing detected.",
+    "lstm_prediction": 0.0022319303825497627,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.0031977014150470495,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.0032605507876724005,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.0056011006236076355,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.0057239471934735775,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.0068236771039664745,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.003954913001507521,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.004635256715118885,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.0026768387760967016,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.0034141186624765396,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.002704684156924486,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.0033150322269648314,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.003275298047810793,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.005609515123069286,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.006941536907106638,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.010661222971975803,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.009714351035654545,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.012733169831335545,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.009744599461555481,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.010353469289839268,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.007477013394236565,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.011947772465646267,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.009938277304172516,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.011960574425756931,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.009646139107644558,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.011344431899487972,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "Low",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.006206122227013111,
+    "mock_loc": "0"
+}
+{
+    "w1": 0.3,
+    "warning_level": "High",
+    "kalman_result": "Low",
+    "lstm_prediction": 0.007198011968284845,
+    "mock_loc": "0"
+}

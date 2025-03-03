@@ -1,0 +1,2 @@
+LatitudeDegrees,LongitudeDegrees,AltitudeMeters,SpeedMps,AccuracyMeters,BearingDegrees,UnixTimeMillis,MockLocation,RelativeLatitude,RelativeLongitude,RelativeAltitude,RelativeBearing
+12.9710569,77.6496584,831.0999755859375,,104.1,,1730973620400,0,0.0,0.0,0.0,0.0
